@@ -1,2 +1,2 @@
 # CPEN311
-Digital Systems Design with Professor Yair Linn
+CPEN 311: Digital Systems Design
