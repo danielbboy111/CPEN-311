@@ -1,2 +1,2 @@
-# CPEN-311
+# CPEN311
 Digital Systems Design
